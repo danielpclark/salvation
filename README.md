@@ -1,7 +1,8 @@
 # Salvation
 
-[![License: CC BY-SA 4.0](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 [![Byline: Daniel P. Clark](https://img.shields.io/badge/Byline-Daniel%20P.%20Clark-blue.svg)](https://keybase.io/danielpclark)
+
+[![License: CC BY-SA 4.0](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
 This is a living blog.  It will “evolve over time” 😉 to help produce
 a clearer picture of what the scripture says about salvation and what that
